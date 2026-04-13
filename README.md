@@ -18,3 +18,4 @@ A simple React app to track learning progress.
 ## How to Run
 npm install
 npm start
+Hi! mytest
